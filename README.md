@@ -12,4 +12,4 @@ I'm Jack Weilage, a frontend developer working to make the web easier to use for
 
 - [Svelte](https://svelte.dev)/[SvelteKit](https://kit.svelte.dev)
 - [React](https://react.dev)/[NextJS](https://nextjs.org)
-- [PostCSS](https://postcss.org)/[Tailwind](tailwindcss.com)
+- [PostCSS](https://postcss.org)/[Tailwind](https://tailwindcss.com)
